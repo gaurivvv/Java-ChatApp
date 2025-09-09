@@ -31,6 +31,13 @@ Java-ChatApp/
 │ │ └── ChatClient.java
 │── README.md
 
+
+## 🎥 Demo Video
+
+[▶️ Click here to watch the demo](https://github.com/gaurivvv/Java-ChatApp/blob/main/chatapp_demo.mp4.mp4?raw=true)
+
+
+
 📖 Concepts Learned
 Client–Server communication
 Multithreading in Java
